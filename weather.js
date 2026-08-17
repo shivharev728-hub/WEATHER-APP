@@ -12,6 +12,7 @@ searchBtn.addEventListener("click", async () => {
 
     resultBox.innerHTML = `<h3 class="text-red-800 font-semibold text-center text-lg">Please Enter a City Name</h3>`;
     return;
+    
   }
 
   try {
